@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "246560973786",
+    "firebase_url": "https://motivate-me-3f4d6.firebaseio.com",
+    "project_id": "motivate-me-3f4d6",
+    "storage_bucket": "motivate-me-3f4d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246560973786:android:979b908fb01db8f2",
+        "android_client_info": {
+          "package_name": "com.velocityappsdj.motivateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246560973786-fm3213hssmacu00uggudca5flijg2m4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.velocityappsdj.motivateme",
+            "certificate_hash": "f9fdbc461dee365b63093943aaecc098cde4ac47"
+          }
+        },
+        {
+          "client_id": "246560973786-4atid4s4udk87q90edsgfpvttvnqd5el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4qUzLcMm3siob3-6_wXIGGKN2e_eGHMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246560973786-4atid4s4udk87q90edsgfpvttvnqd5el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
